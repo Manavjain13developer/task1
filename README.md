@@ -1,8 +1,10 @@
-## How to run a project (example: Student)
+# Login
+
+## How to run a project
 
 1.Open terminal and go to the project folder:
 
-cd student
+cd login
 
 2.Install express:
 
